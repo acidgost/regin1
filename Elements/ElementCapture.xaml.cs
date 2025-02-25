@@ -25,6 +25,7 @@ namespace regin.Elements
         /// </summary>
         public CorrectCapture HandlerCorrectCapture;
         /// <summary>
+        ///
         /// Делегат выполнения успешного ввода капчи
         /// </summary>
         public delegate void CorrectCapture();
